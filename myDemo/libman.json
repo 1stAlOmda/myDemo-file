@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "defaultProvider": "filesystem",
+    "libraries": [
+        {
+            "library": "wwwroot/bootstrap/css/",
+            "destination": "wwwroot/lib/css/"
+        },
+        {
+            "provider": "cdnjs",
+            "library": "twitter-bootstrap@4.4.1",
+            "destination": "wwwroot/twitter-bootstrap/"
+        },
+        {
+            "provider": "cdnjs",
+            "library": "jstree@3.3.8",
+            "destination": "wwwroot/jstree/"
+        },
+        {
+            "provider": "cdnjs",
+            "library": "jquery@3.4.1",
+            "destination": "wwwroot/jquery/"
+        },
+        {
+            "provider": "cdnjs",
+            "library": "jquery-validate@1.19.1",
+            "destination": "wwwroot/jquery-validate/"
+        },
+        {
+            "provider": "cdnjs",
+            "library": "jquery-validation-unobtrusive@3.2.11",
+            "destination": "wwwroot/jquery-validation-unobtrusive/"
+        }
+    ]
+}

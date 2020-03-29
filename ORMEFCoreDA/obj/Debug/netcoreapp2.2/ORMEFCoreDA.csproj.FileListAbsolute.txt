@@ -1,0 +1,10 @@
+C:\Users\engam\Source\Repos\myDemo\ORMEFCoreDA\bin\Debug\netcoreapp2.2\ORMEFCoreDA.deps.json
+C:\Users\engam\Source\Repos\myDemo\ORMEFCoreDA\bin\Debug\netcoreapp2.2\ORMEFCoreDA.runtimeconfig.json
+C:\Users\engam\Source\Repos\myDemo\ORMEFCoreDA\bin\Debug\netcoreapp2.2\ORMEFCoreDA.runtimeconfig.dev.json
+C:\Users\engam\Source\Repos\myDemo\ORMEFCoreDA\bin\Debug\netcoreapp2.2\ORMEFCoreDA.dll
+C:\Users\engam\Source\Repos\myDemo\ORMEFCoreDA\bin\Debug\netcoreapp2.2\ORMEFCoreDA.pdb
+C:\Users\engam\Source\Repos\myDemo\ORMEFCoreDA\obj\Debug\netcoreapp2.2\ORMEFCoreDA.AssemblyInfoInputs.cache
+C:\Users\engam\Source\Repos\myDemo\ORMEFCoreDA\obj\Debug\netcoreapp2.2\ORMEFCoreDA.AssemblyInfo.cs
+C:\Users\engam\Source\Repos\myDemo\ORMEFCoreDA\obj\Debug\netcoreapp2.2\ORMEFCoreDA.dll
+C:\Users\engam\Source\Repos\myDemo\ORMEFCoreDA\obj\Debug\netcoreapp2.2\ORMEFCoreDA.pdb
+C:\Users\engam\Source\Repos\myDemo\ORMEFCoreDA\obj\Debug\netcoreapp2.2\ORMEFCoreDA.csprojAssemblyReference.cache

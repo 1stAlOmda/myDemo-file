@@ -1,0 +1,34 @@
+﻿@model ExceptionObj
+
+@{
+    ViewBag.title = "Error Page";
+}
+
+<div class="alert alert-danger mt-1 mb-1">
+    <h4> Error Message :</h4>
+    <hr />
+    <h5>
+        @Model.Message
+    </h5>
+</div>
+
+<div class="alert alert-danger mt-1 mb-1">
+    <h4>Error Path :</h4>
+    <hr />
+    <h5>
+        @Model.Path
+    </h5>
+</div>
+<div class="alert alert-danger mt-1 mb-1">
+    <h4>Error StackTrace :</h4>
+    <hr />
+    <h5>
+        @Model.StackTrace
+    </h5>
+</div>
+
+
+<a asp-controller="home" asp-action="index" class="btn btn-outline-success"
+   style="width:auto">Click here to see the list of all employees</a>
+
+
