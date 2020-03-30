@@ -2,9 +2,10 @@ goes to origin by push
 pushing
 
 going to stage area by add
-
+adding to index
 
 going to local repo by commit
 commiting
 
 going to working dir. by just make amodification
+modifing
