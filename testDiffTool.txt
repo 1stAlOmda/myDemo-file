@@ -1,0 +1,8 @@
+goes to origin by push
+pushing
+
+going to stage area by add
+
+going to local repo by commit
+
+going to working dir. by just make amodification
