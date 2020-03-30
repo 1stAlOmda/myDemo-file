@@ -3,6 +3,8 @@ pushing
 
 going to stage area by add
 
+
 going to local repo by commit
+commiting
 
 going to working dir. by just make amodification
