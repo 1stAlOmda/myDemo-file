@@ -1,5 +1,4 @@
 
-
 test pushing to githup
 
 anather commit and push
@@ -17,3 +16,5 @@ update for testing no fast forword
  
  ----------------------------------
  before rebase example
+ 
+ master : on purpose conflict 
