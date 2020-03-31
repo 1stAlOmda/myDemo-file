@@ -12,4 +12,5 @@ another update from omda branch
 
 update forword fast merge to see tree what will look like
 
-on purpose conflict
+update for testing no fast forword
+ merge what it will look like and on purpose conflict
