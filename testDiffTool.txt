@@ -11,3 +11,6 @@ commiting
 
 going to working dir. by just make amodification
 modifing
+
+
+test automatic merge
