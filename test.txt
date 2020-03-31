@@ -17,4 +17,7 @@ update for testing no fast forword
  ----------------------------------
  before rebase example
  
+ omdaBranch : after braching 
  master : on purpose conflict 
+
+fixing merging both branches
