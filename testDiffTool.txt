@@ -19,6 +19,3 @@ test automatic merge
 master : after branching
 
 master : on purpose conflict after edit this file on omdaBranch
-
-----------------
-stash test

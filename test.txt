@@ -32,7 +32,3 @@ test for  after i stash stashing
 
 this is the fix from commit the changs and then stash apply then stash apply
 
-git stash for spacific name 
-
-
-
