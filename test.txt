@@ -24,3 +24,6 @@ fixing merging both branches
 
 
 new update after rebasing
+
+-------------
+test for  after i stash stashing 
