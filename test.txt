@@ -36,4 +36,36 @@ git stash branch omdaBranch ==> git stash -u ===> git stash branch branchName
 
 for clearing all the stash list ==> git stash clear
 -----------------
+taging 
+
+for saving a taq for the last commit ==> git tag tagName 
+for saving a taq witj annotation ( bestPractice )for the last commit ==> git tag -a tagName 
+for showing the tag ==> git show tagName
+for listing the tags ==> git tag list 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
