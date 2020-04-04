@@ -41,7 +41,11 @@ taging
 for saving a taq for the last commit ==> git tag tagName 
 for saving a taq witj annotation ( bestPractice )for the last commit ==> git tag -a tagName 
 for showing the tag ==> git show tagName
-for listing the tags ==> git tag list 
+for listing the tags ==> git tag --list 
+for saving atag with msg on the fly ==> git taq tagName -m "msg"
+for edit the last commit msg ==> git commit --amend 
+for display differances between tags ==> git diff tagName1 tagName2 or visually using ==> git difftool tagName1 tagName2
+
 
 
 
