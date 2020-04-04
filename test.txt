@@ -26,14 +26,12 @@ fixing merging both branches
 new update after rebasing
 
 ----------------------------
+stashing
+
 update for stashing example ==> git stash save StashName ==> StashName = stash@{0}
-
 test for  after i stash stashing ==> git stash list ==> git stash pop stash@{0}
-
 this is the fix from commit the changs and then stash apply then stash apply
-
 git stash branch omdaBranch ==> git stash -u ===> git stash branch branchName
-
 for clearing all the stash list ==> git stash clear
 -----------------
 taging 
@@ -45,6 +43,13 @@ for listing the tags ==> git tag --list
 for saving atag with msg on the fly ==> git taq tagName -m "msg"
 for edit the last commit msg ==> git commit --amend 
 for display differances between tags ==> git diff tagName1 tagName2 or visually using ==> git difftool tagName1 tagName2
+for taging a previous commit ==> git tag -a tagName [CommitID] 
+for update a tag ==> git tag -a tagName -f [CommitID]
+for pushing a tag or a release to github ==> git push origin tagName 
+for pushing all of my tags to github ==> git push origin master --taqs
+for to delete a tag from a github ==> git push origin :tagName
+for delete a tag ==> git tag --delete tagName
+
 
 
 
