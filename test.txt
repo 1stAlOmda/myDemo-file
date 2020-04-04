@@ -26,11 +26,14 @@ fixing merging both branches
 new update after rebasing
 
 ----------------------------
-update for stashing example
+update for stashing example ==> git stash save StashName ==> StashName = stash@{0}
 
-test for  after i stash stashing 
+test for  after i stash stashing ==> git stash list ==> git stash pop stash@{0}
 
 this is the fix from commit the changs and then stash apply then stash apply
 
-git stash branch omdaBranch
+git stash branch omdaBranch ==> git stash -u ===> git stash branch branchName
+
+for clearing all the stash list ==> git stash clear
+-----------------
 
